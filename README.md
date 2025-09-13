@@ -45,11 +45,11 @@ Your code must be deployed to GitHub Pages. To deploy a repository to GitHub pag
 1. Under `source` click the dropdown and select your `master` or `main` branch.
 1. Click `save`.
 
-Website: https://fell67.github.io/m4-hw4-abreu-victoria/
-
 Your site should be deployed to `<your github username>.github.io/<your repository name>` in 5-10 minutes.
 
 &nbsp;
 ## Submission
 
 Please submit both a link to your repository and a link to the live site. Also please include any comments on stumbling blocks or difficulties encountered while completing the assignment.
+
+Website: https://fell67.github.io/m4-hw4-abreu-victoria/
