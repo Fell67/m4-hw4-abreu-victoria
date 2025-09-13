@@ -3,7 +3,7 @@
 (**NOTE:** View a rendered version of this file in VS Code with `ctrl-shift-v` or `cmd-shift-v`)
 
 &nbsp;
-![mockup](./images/mockup-1920.png)
+![mockup](./.github/mockup-1920.png)
 
 &nbsp;
 ## Background
@@ -44,6 +44,8 @@ Your code must be deployed to GitHub Pages. To deploy a repository to GitHub pag
 1. Click on `pages` in the left navigation menu.
 1. Under `source` click the dropdown and select your `master` or `main` branch.
 1. Click `save`.
+
+Website: https://fell67.github.io/m4-hw4-abreu-victoria/
 
 Your site should be deployed to `<your github username>.github.io/<your repository name>` in 5-10 minutes.
 
