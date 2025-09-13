@@ -83,6 +83,7 @@ footer {
     padding: 3px;
     margin: 3px;
     max-height: fit-content;
+    text-align: center;
 }
 
 #social-media-content > a {
