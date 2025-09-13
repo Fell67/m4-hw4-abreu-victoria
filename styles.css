@@ -71,6 +71,8 @@ footer {
     padding: 1px 20px;
     font-size: 40px;
     margin-right: auto;
+    text-emphasis: bold;
+    text-decoration: none;
 }
 
 #profile-picture {
